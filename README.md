@@ -1,4 +1,24 @@
-# 🌟 InAmigos Foundation – Empowering Lives, Spreading Compassion
+<p align="center">
+  <img src="./LOGO_IAF.png" width="180" alt="InAmigos Foundation Logo">
+</p>
+
+<h1 align="center">🌟 InAmigos Foundation – Empowering Lives, Spreading Compassion</h1>
+
+<p align="center">
+  <a href="https://in-amigos-foundation-anish.vercel.app/">
+    🌐 View Live Website
+  </a>
+</p>
+
+---
+
+## 📸 Project Preview
+
+<p align="center">
+  <img src="./Project_View_IAF.jpeg" alt="Project Preview">
+</p>
+
+---
 
 
 ### 🌐 Live Website
