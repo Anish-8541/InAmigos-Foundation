@@ -1,5 +1,6 @@
 # 🌟 InAmigos Foundation – Empowering Lives, Spreading Compassion
 
+
 ### 🌐 Live Website
 
 **Website:** https://in-amigos-foundation-anish.vercel.app/
@@ -123,6 +124,11 @@ Enhancing employability through skill development and career-oriented learning.
 
 ---
 
+
+## Project Preview
+
+
+
 ## 🛠️ Tech Stack
 
 * HTML5
@@ -140,12 +146,7 @@ InAmigos-Foundation/
 │
 ├── index.html
 ├── style.css
-├── robots.txt
-├── sitemap.xml
-│
-└── assets/
 ```
-
 ---
 
 ## 🎯 Project Objectives
