@@ -201,7 +201,6 @@ Ways to contribute:
     Anish Kumar
   </a>
 </h3>
----
 
 ## 🙏 Acknowledgement
 
