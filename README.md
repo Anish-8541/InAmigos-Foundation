@@ -142,9 +142,6 @@ Enhancing employability through skill development and career-oriented learning.
 
 * HTML5
 * CSS3
-* Responsive Design Principles
-* Google Fonts
-* Font Awesome Icons
 
 ---
 
