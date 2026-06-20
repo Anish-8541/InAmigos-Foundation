@@ -1,4 +1,4 @@
-<h1 align="center">🌟 InAmigos Foundation – Empowering Lives, Spreading Compassion</h1>
+<h1 align="center">🌟 InAmigos Foundation – Transforming Lives Through Compassion & Action</h1>
 <p align="center">
   <img src="./LOGO_IAF.png" width="180" alt="InAmigos Foundation Logo">
 </p>
@@ -153,10 +153,12 @@ Enhancing employability through skill development and career-oriented learning.
 ```text
 InAmigos-Foundation/
 │
+├── LOGO_IAF.png
+├── Project_View_IAF.jpeg
+├── README.md
 ├── index.html
-├── style.css
+└── style.css
 ```
----
 
 ## 🎯 Project Objectives
 
