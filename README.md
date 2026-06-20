@@ -195,8 +195,11 @@ Ways to contribute:
 ---
 
 ## 👨‍💻 Developed By
-
-**Anish Kumar**
+<h3>
+  <a href="https://www.linkedin.com/in/anish-kumar-kiet-uptu/">
+    Anish Kumar
+  </a>
+</h3>
 
 ---
 
